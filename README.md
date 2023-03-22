@@ -1,2 +1,2 @@
 # langchain-playground
-experimental with llm
+experimenting with llm
